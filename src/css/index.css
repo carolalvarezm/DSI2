@@ -1,0 +1,18 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cover {
+    width: 200px;
+    height: 200px;
+    background: grey;
+}
+
+.vinyl {
+    width: 200px;
+    height: 200px;
+    background: black;
+    border-radius: 50%;
+}

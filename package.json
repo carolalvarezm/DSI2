@@ -1,0 +1,30 @@
+{
+    "name": "dsi-p2-jspotify",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "clean": "rm -rf dist package-lock.json node_modules",
+        "start": "parcel src/index.html --port 8080",
+        "build": "parcel build src/index.html -d build --public-url /dsi-p1-parcel-alu0100944723/",
+        "deploy": "npx gh-pages -d build",
+        "prettier": "npx prettier --write src/",
+        "eslint": "npx eslint src/",
+        "eslintfix": "npx eslint src/ --fix"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723.git"
+    },
+    "keywords": [],
+    "author": "Carolina Álvarez Martín - alu0100944723",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/issues"
+    },
+    "homepage": "https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723#readme",
+    "devDependencies": {
+        "eslint": "^6.8.0",
+        "gh-pages": "^2.2.0"
+    }
+}
