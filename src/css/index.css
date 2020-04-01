@@ -15,4 +15,16 @@
     height: 200px;
     background: black;
     border-radius: 50%;
+    z-index: -1;
+    transform: translateX(-200px);
+    transition: transform 0.5s;
+}
+
+.open+.vinyl {
+    transform: translateX(-50px);
+}
+
+img {
+    width: 200px;
+    height: 200px;
 }
