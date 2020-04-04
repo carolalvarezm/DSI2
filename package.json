@@ -24,7 +24,18 @@
     },
     "homepage": "https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723#readme",
     "devDependencies": {
+        "cssnano": "^4.1.10",
         "eslint": "^6.8.0",
+        "eslint-config-prettier": "^6.10.1",
+        "eslint-config-standard": "^14.1.1",
+        "eslint-plugin-import": "^2.20.2",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-prettier": "^3.1.2",
+        "eslint-plugin-promise": "^4.2.1",
+        "eslint-plugin-standard": "^4.0.1",
         "gh-pages": "^2.2.0"
+    },
+    "dependencies": {
+        "prettier": "^2.0.2"
     }
 }

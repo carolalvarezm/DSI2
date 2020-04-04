@@ -20,6 +20,24 @@
     transition: transform 0.5s;
 }
 
+.label {
+    z-index: 5;
+    width: 65px;
+    height: 65px;
+    margin: auto;
+    border-radius: 50%;
+    background: red;
+}
+
+.hole {
+    z-index: 5;
+    width: 10px;
+    height: 10px;
+    margin: auto;
+    border-radius: 50%;
+    background: white;
+}
+
 .open+.vinyl {
     transform: translateX(-50px);
 }
