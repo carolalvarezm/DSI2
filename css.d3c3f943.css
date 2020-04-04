@@ -1,0 +1,2 @@
+.flex{display:flex;justify-content:center;align-items:center}.cover{background:grey}.cover,.vinyl,img{width:200px;height:200px}.vinyl{background:#000;border-radius:50%;z-index:-1;transform:translateX(-200px);transition:transform .5s}.label{width:65px;height:65px;background:red}.hole,.label{z-index:5;margin:auto;border-radius:50%}.hole{width:10px;height:10px;background:#fff}.open+.vinyl{transform:translateX(-50px)}
+/*# sourceMappingURL=/dsi-p2-jspotify-alu0100944723/css.d3c3f943.css.map */
