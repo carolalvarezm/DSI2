@@ -6,7 +6,7 @@
     "scripts": {
         "clean": "rm -rf dist package-lock.json node_modules",
         "start": "parcel src/index.html --port 8080",
-        "build": "parcel build src/index.html -d build --public-url /dsi-p1-parcel-alu0100944723/",
+        "build": "parcel build src/index.html -d build --public-url /dsi-p2-jspotify-alu0100944723/",
         "deploy": "npx gh-pages -d build",
         "prettier": "npx prettier --write src/",
         "eslint": "npx eslint src/",
