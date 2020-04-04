@@ -4,11 +4,11 @@
     align-items: center;
 }
 
-.cover {
+img {
     width: 200px;
     height: 200px;
-    background: grey;
 }
+
 
 .vinyl {
     width: 200px;
@@ -42,7 +42,3 @@
     transform: translateX(-50px);
 }
 
-img {
-    width: 200px;
-    height: 200px;
-}
