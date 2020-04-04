@@ -3,7 +3,7 @@
 ## Parcel y estructura del proyecto
 * En la práctica anterior instalamos parcel de forma global, por lo que no debemos volver a instalarlo en esta.
     
-    ![Versiones parcel](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/tree/master/src/assets/Capturas_Readme/parcel.png)
+    ![Versiones parcel](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/blob/master/src/assets/Capturas_Readme/Parcel.png)
 
 * Para comenzar hacemos la estructura de carpetas como en la anterior práctica:
     ```
@@ -12,7 +12,7 @@
     ```
 
 * También inicializamos git y añadimos lo que creamos necesario al .gitignore:
-    ![gitignore](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/tree/master/src/assets/Capturas_Readme/gitignore.png)
+    ![gitignore](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/blob/master/src/assets/Capturas_Readme/gitignore.png)
 
 * Inicializamos npm y añadimos los scripts para usar parcel más fácilmente.Añadimos también uno para desplegar en ghpages cuando necesitemos dentro del package.json:
    ```
@@ -151,7 +151,7 @@
     ```
 * El resultado de lo anterior es el siguiente:
 
-    ![Vinilo desplazándose](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/tree/master/src/assets/Capturas_Readme/vinilo.gif)
+    ![Vinilo desplazándose](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/blob/master/src/assets/Capturas_Readme/vinilo.gif)
 
 ## API Multimedia
 * Lo siguiente que realizaremos es añadir a nuestro index.js un diccionario con el elemento html y el nombre de la canción:
@@ -239,16 +239,16 @@
 * Para la comprobación del código con ESlint he añadido un script de npm:
 
 
-    ![Utilizando ESlint](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/tree/master/src/assets/Capturas_Readme/eslint.png)
+    ![Utilizando ESlint](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/blob/master/src/assets/Capturas_Readme/eslint.png)
 * Para la utilización de prettier he instalado una extensión del vscode que directamente al guardar formatea el código: 
 
-    ![Extensión Prettier](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/tree/master/src/assets/Capturas_Readme/prettier.png)
-    ![Utilizando Prettier](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/tree/master/src/assets/Capturas_Readme/prettier.gif)
+    ![Extensión Prettier](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/blob/master/src/assets/Capturas_Readme/Prettier.png)
+    ![Utilizando Prettier](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/blob/master/src/assets/Capturas_Readme/prettier.gif)
 ## Ghpages
-* Desplegamos en gh-pages con los dos scripts de npm que añadimos al principio. Podemos verlo en la siguiente (url)[https://ull-esit-dsi-1920.github.io/dsi-p2-jspotify-alu0100944723/]:
+* Desplegamos en gh-pages con los dos scripts de npm que añadimos al principio. Podemos verlo en la siguiente [url](https://ull-esit-dsi-1920.github.io/dsi-p2-jspotify-alu0100944723/):
 
-    ![npm build](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/tree/master/src/assets/Capturas_Readme/build.png)
-    ![npm deploy](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/tree/master/src/assets/Capturas_Readme/deploy.gif)
+    ![npm build](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/blob/master/src/assets/Capturas_Readme/build.png)
+    ![npm deploy](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/blob/master/src/assets/Capturas_Readme/deploy.png)
 
 ## Retos
 ### Reto 1 : Funcionalidades Extra
