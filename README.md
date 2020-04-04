@@ -12,6 +12,7 @@
     ```
 
 * También inicializamos git y añadimos lo que creamos necesario al .gitignore:
+
     ![gitignore](https://github.com/ULL-ESIT-DSI-1920/dsi-p2-jspotify-alu0100944723/blob/master/src/assets/Capturas_Readme/gitignore.png)
 
 * Inicializamos npm y añadimos los scripts para usar parcel más fácilmente.Añadimos también uno para desplegar en ghpages cuando necesitemos dentro del package.json:
